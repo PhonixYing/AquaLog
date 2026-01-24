@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://phonixying.github.io/AquaLog/</title>
+  <link>https://phonixying.github.io/AquaLog/</link>
+
+<item>
+     <link>https://phonixying.github.io/AquaLog/</link>
+     <title>AquaLog 水質日誌</title>
+     <description>水族與烏龜缸的水質測試與照護提醒：記錄測試、維護與餵食，全程離線。</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/zh/</link>
+     <title>AquaLog 水质日志</title>
+     <description>水族与乌龟缸的水质测试与养护提醒：记录测试、维护与喂食，全程离线。</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/en/</link>
+     <title>AquaLog: Water Test Log</title>
+     <description>Aquarium &amp; turtle water test log with reminders. Track tests, maintenance, and feeding offline.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/pt/</link>
+     <title>AquaLog: Registro de Água</title>
+     <description>Registro de testes de água e lembretes para aquários e tartarugas. Testes, manutenção e alimentação offline.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/ru/</link>
+     <title>AquaLog: Журнал воды</title>
+     <description>Журнал тестов воды и напоминаний для аквариумов и черепах. Тесты, обслуживание и кормление офлайн.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/es/</link>
+     <title>AquaLog: Registro de Agua</title>
+     <description>Registro de pruebas de agua y recordatorios para acuarios y tortugas. Tests, mantenimiento y alimentación sin conexión.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/ko/</link>
+     <title>AquaLog: 수질 로그</title>
+     <description>어항·거북이 수조용 수질 테스트 로그와 알림. 테스트, 유지관리, 급여를 오프라인으로.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/fa/</link>
+     <title>AquaLog: لاگ آب</title>
+     <description>ثبت تست‌های آب و یادآورها برای آکواریوم و لاک‌پشت. تست، نگهداری و غذا دادن به صورت آفلاین.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://phonixying.github.io/AquaLog/ja/</link>
+     <title>AquaLog: 水質ログ</title>
+     <description>水槽とカメの水質テストログ。テスト・メンテナンス・給餌をオフラインで管理。</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
