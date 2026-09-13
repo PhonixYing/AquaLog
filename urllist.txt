@@ -1,6 +1,6 @@
 https://phonixying.github.io/AquaLog/
 https://phonixying.github.io/AquaLog/zh/
-https://phonixying.github.io/AquaLog/en/
+https://phonixying.github.io/AquaLog/zh-Hant/
 https://phonixying.github.io/AquaLog/pt/
 https://phonixying.github.io/AquaLog/ru/
 https://phonixying.github.io/AquaLog/es/

@@ -6,8 +6,8 @@
 
 <item>
      <link>https://phonixying.github.io/AquaLog/</link>
-     <title>AquaLog 水質日誌</title>
-     <description>水族與烏龜缸的水質測試與照護提醒：記錄測試、維護與餵食，全程離線。</description>
+     <title>AquaLog: Water Test Log</title>
+     <description>Aquarium &amp; turtle water test log with reminders. Track tests, maintenance, and feeding offline.</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
@@ -21,9 +21,9 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>https://phonixying.github.io/AquaLog/en/</link>
-     <title>AquaLog: Water Test Log</title>
-     <description>Aquarium &amp; turtle water test log with reminders. Track tests, maintenance, and feeding offline.</description>
+     <link>https://phonixying.github.io/AquaLog/zh-Hant/</link>
+     <title>AquaLog 水質日誌</title>
+     <description>水族與烏龜缸的水質測試與照護提醒：記錄測試、維護與餵食，全程離線。</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
